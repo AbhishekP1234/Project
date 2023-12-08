@@ -1,1 +1,9 @@
 Kolhapur is a city on the banks of the Panchaganga River, in the west Indian state of Maharashtra. It’s known for its temples, like the ancient Mahalakshmi Temple, a Hindu pilgrimage site. The Bhavani Mandap is an imposing old palace with a small museum displaying stuffed wild animals. Close by, Rankala Lake is surrounded by gardens. The hilltop Jyotiba Temple complex is on the city's outskirts.
+1. Clone: GLobal Repo(Github)-Local Repo(Eclipse) only once
+
+*Go to file-- click  on import-- click on git-- click on project from git(with smart import)-- click on next -- click on clone url--click on next
+--copy the url from github--paste one url-- enter username &passwword-- click on next--clcik on next-- finish
+
+2. Pull: GLobal Repo(Github)-Local Repo(Eclipse) repeatedly
+
+*Select repository--right click--click  on team -- click on pull 
